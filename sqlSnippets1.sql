@@ -1,0 +1,12 @@
+select * from students;
+insert into students (studentname, studentdateofbirth) values ('Gurpreet' , '17/07/2002'); 
+insert into students (studentname, studentdateofbirth) values ('Manpreet' , '20/07/2002'); 
+insert into students (studentname, studentdateofbirth) values ('Harpreet' , '08/07/2002'); 
+insert into students (studentname, studentdateofbirth) values ('Jaspreet' , '17/08/2002'); 
+insert into students (studentname, studentdateofbirth) values ('Sukhpreet' , '17/07/2001'); 
+insert into students (studentname, studentdateofbirth) values ('Banpreet' , '11/07/2001'); 
+insert into students (studentname, studentdateofbirth) values ('Arshpreet' , '13/09/2002'); 
+insert into students (studentname, studentdateofbirth) values ('Gaganpreet' , '01/07/2003');
+insert into students (studentname, studentdateofbirth) values ('Shubhpreet' , '17/03/2000'); 
+insert into students (studentname, studentdateofbirth) values ('Lovepreet' , '19/07/2001'); 
+select * from students;
